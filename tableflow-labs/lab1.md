@@ -177,6 +177,9 @@ With the Provider Integration successfully configured, you can now enable Tablef
 
 3.  **Configure Storage:**
     * You will be asked to choose storage. Select **Configure custom storage**.
+    
+    ![Enable Tableflow Window](img/tableflow_enable_window.png)
+
     * In the next menu, choose the **Provider Integration** you just created in Steps 2-5 (e.g., `s3-provider-integration`). You can identify it by the integration name or the IAM Role ARN.
     * Enter your **AWS S3 bucket name** (e.g., `tableflow-bucket-<<account-id>>`) where the Iceberg data should be written.
 

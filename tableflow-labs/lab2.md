@@ -134,6 +134,11 @@ Once the tables appear in AWS Glue, you can query them using Athena.
 ![Athena Configuration](img/athena-configuration.png)
 
 3.  **Run Queries:**
+
+    * ⚠️ Note: Configure the S3 result location in the settings. Use a bucket in the same region as your iceberg storage or same bucket with a different folder for results.
+    
+    ![Athena Query Result Configuration](img/athena_query_results_settings.png)
+
     * You can now run standard SQL queries against the tables registered in Glue. The table names will typically match your Kafka topic names.
     * **Example Queries:** Replace `<<logical-cluster-id>>` with the actual Glue database name and `<<topic-name>>` with the actual Glue table name (e.g., `clicks`, `orders`).
 
