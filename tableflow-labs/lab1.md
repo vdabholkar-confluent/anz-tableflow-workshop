@@ -172,7 +172,7 @@ With the Provider Integration successfully configured, you can now enable Tablef
     * On the right-hand side of the row for that topic, in the "Tableflow" column, click the **Enable Tableflow** button/link.
 
 
-  * ⚠️ Note: As of April 2025, Upsert Topics are not supported on Tableflow. 
+  * ⚠️ Note: Upsert Topics are not yet supported on Tableflow. 
 
 ![Click Enable Tableflow](img/click-enable-tableflow.png)
 
