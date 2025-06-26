@@ -168,6 +168,7 @@ With the Provider Integration successfully configured, you can now enable Tablef
 
 2.  **Select a Topic and Enable Tableflow:**
     * Find the specific topic you want to enable Tableflow for in the list (e.g., `clicks`, `customer_inquiries`, `orders`, etc.).
+    * For this workshop we will use the topics created in [Lab 0](lab0.md#creates-topics)
     * On the right-hand side of the row for that topic, in the "Tableflow" column, click the **Enable Tableflow** button/link.
 
 
