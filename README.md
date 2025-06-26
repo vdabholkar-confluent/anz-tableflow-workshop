@@ -35,7 +35,7 @@ winget install --id Git.Git -e
 
 This workshop consists of 3 hands-on labs:
 
-### [Lab 0: Manual Confluent Cloud Setup](./lab0.md)
+### [Lab 0: Manual Confluent Cloud Setup](./tableflow-labs/lab0.md)
 - Create Confluent Cloud account and environment
 - Set up a Kafka cluster  
 - Create topics with sample e-commerce data
