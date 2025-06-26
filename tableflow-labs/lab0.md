@@ -61,7 +61,7 @@ An environment contains clusters and its deployed components such as Apache Flin
 
 5. Repeat the previous step and create a second topic name **clicks** and **3** as the number of partitions and skip the data contract.
 
-> **Note:** Topics have many configurable parameters. A complete list of those configurations for Confluent Cloud can be found [here](https://docs.confluent.io/cloud/current/using/broker-config.html). If you are interested in viewing the default configurations, you can view them in the Topic Summary on the right side. 
+> **Note:** Topics have many configurable parameters. A complete list of those configurations for Confluent Cloud can be found [here](https://docs.confluent.io/cloud/current/topics/overview.html). If you are interested in viewing the default configurations, you can view them in the Topic Summary on the right side. 
 
 7. After topic creation, the **Topics UI** allows you to monitor production and consumption throughput metrics and the configuration parameters for your topics. When you begin sending messages to Confluent Cloud, you will be able to view those messages and message schemas.
 
