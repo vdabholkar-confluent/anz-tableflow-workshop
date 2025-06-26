@@ -237,4 +237,4 @@ If you no longer need the IAM policies and roles created during **Lab 1** and **
 
 By completing these steps, you will have successfully cleaned up the IAM policies and roles created during the labs.
 ---
-Go to [destroy lab](../README.md#tear-down) to delete your Confluent infrastructure as well.x
+Go to [destroy lab](lab0.md#clean-up-resources) to delete your Confluent infrastructure as well.x
