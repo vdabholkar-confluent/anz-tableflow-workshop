@@ -62,7 +62,7 @@ This workshop consists of 3 hands-on labs:
    ```
 
 2. **Start with Lab 0:**
-   Begin with [Lab 0](./lab0.md) to set up your Confluent Cloud environment and create sample data.
+   Begin with [Lab 0](tableflow-labs/lab0.md) to set up your Confluent Cloud environment and create sample data.
 
 3. **Follow the Lab Sequence:**
    Complete the labs in order (0 → 1 → 2) as each builds upon the previous one.
