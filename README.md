@@ -79,10 +79,7 @@ This workshop consists of 3 hands-on labs:
 ## Support
 
 If you encounter issues during the workshop:
-- Check the troubleshooting sections in each lab
 - Refer to [Confluent Cloud Documentation](https://docs.confluent.io/cloud/current/overview.html)
 - Review [Confluent Tableflow Documentation](https://docs.confluent.io/cloud/current/topics/tableflow/overview.html)
 
 ---
-
-**Ready to get started?** → [Lab 0: Manual Confluent Cloud Setup](./lab0.md)
